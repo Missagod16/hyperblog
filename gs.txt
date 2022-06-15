@@ -15,12 +15,9 @@ assssssssssssssssss
 sjefnsfjnsljefnsefjnsefjnselfjnselfjnsefljnsefjnseawds
 
 master u
-<<<<<<< HEAD
 
 master u2
-=======
 Experimento 1
->>>>>>> 84f2888 (Exp 1)
 
 master 3
 

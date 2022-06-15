@@ -19,7 +19,11 @@ master u
 master u2
 Experimento 1
 
+<<<<<<< HEAD
 master 3
+=======
+Experimento 2
+>>>>>>> c73f1fc (Exp 2)
 
 
 
